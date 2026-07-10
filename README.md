@@ -123,6 +123,18 @@ All three scripts run in demo mode without any credentials or external connectio
 
 ---
 
+
+## Sample Output
+
+### Log Parser
+![Log Parser Output](screenshots/Screenshot%202026-07-09%20at%208.23.25%E2%80%AFPM.png)
+
+### Qualys VMDR Summary
+![Qualys VMDR Output](screenshots/Screenshot%202026-07-09%20at%208.29.24%E2%80%AFPM.png)
+
+### CVE Lookup
+![CVE Lookup Output](screenshots/Screenshot%202026-07-09%20at%208.30.17%E2%80%AFPM.png)
+
 ## Related Projects
 
 - [`siem-detection-rules`](https://github.com/cybergirlApurva/siem-detection-rules) — KQL rules that generate the alerts these scripts help triage
